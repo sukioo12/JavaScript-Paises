@@ -1,0 +1,39 @@
+.titulo {
+    text-align: center;
+    }
+    body{ 
+        background-color:salmon;
+    }
+    h2{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: antiquewhite;
+    }
+    .botones{
+        text-align: center;
+    }
+    h1{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: antiquewhite;
+    }
+    .seleccion{
+        background-color:lemonchiffon;
+    }
+    .botones:hover{
+    background-color:salmon; 
+    background-color:lemonchiffon;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .imagen{
+        text-align: center;
+    }
+    .letra{
+        color:greenyellow;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .cambio{
+        color: red;
+    }
+    .cambiosn2{
+        color:darkblue;
+    }
+  
